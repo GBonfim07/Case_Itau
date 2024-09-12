@@ -1,7 +1,7 @@
 <h1>Sistema de Processamento de Transações Financeiras</h1>
-Este projeto é um sistema simples de processamento de transações financeiras entre contas bancárias. O sistema processa várias transações de forma simultânea, utilizando o ThreadPoolExecutor para acelerar o processamento.
+<p>Este projeto é um sistema simples de processamento de transações financeiras entre contas bancárias. O sistema processa várias transações de forma simultânea, utilizando o ThreadPoolExecutor para acelerar o processamento.</p>
 
-Funcionalidades
+<h2>Funcionalidades</h2>
 Criação de Transações : O sistema cria transações entre contas de origem e destino, especificando o valor a ser transferido.
 Execução de Transações : As transações são realizadas de forma paralela para otimizar o tempo de processamento.
 Verificação de Saldos : O sistema garante que as transações sejam concluídas se houver saldo suficiente na conta de origem.
