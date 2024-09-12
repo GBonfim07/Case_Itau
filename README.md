@@ -12,6 +12,7 @@ ContaSaldo : Armazena o saldo de uma conta bancária.
 AcessoDados : Simula o acesso e a atualização dos saldos das contas.
 ExecutarTransacaoFinanceira : Gerencia a lógica de execução das transações, incluindo verificação de saldos e atualização de contas.
 TransacaoFactory : Cria instâncias da classe Transacaode forma padronizada.
-Como Executar
-Certifique-se de que o Python esteja instalado em seu sistema.
-Clone o repositório ou baixe o código.
+<h3>Como Executar</h3>
+1 - Certifique-se de que o Python esteja instalado em seu sistema.
+2 - Clone o repositório ou baixe o código.
+3 - Necessário Biblioteca Pandas
